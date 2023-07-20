@@ -1,9 +1,3 @@
-강의교안 기여(Pull Request) 환영합니다.
-
-백엔드 강좌 강의교안은 [여기](https://github.com/ZeroCho/sleact/blob/master/nest-typeorm/README.md) 에 있습니다. 
-
-# 라이브강좌 핵심 내용 정리해서 여기(README.md)에 올려두었습니다~ 다시보기하면서 같이 읽고 복습하시면 됩니다!
-
 # 백그라운드 세팅
 0. [node 16](https://nodejs.org)버전(14나 17도 괜찮음)과 [MySQL](https://dev.mysql.com/downloads/mysql/)을 미리 설치하기, mysql은 설치과정 중 비번 설정 함.
 1. 이 레포 git clone 받기
